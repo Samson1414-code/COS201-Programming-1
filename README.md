@@ -1,7 +1,7 @@
 # COS 201 — Computer Programming I
 
 ## Student Information
-- Name:Oladapo Samson Oyekunle
+- Name: Oladapo Samson Oyekunle
 - Matriculation Number: [26/21972]
 - Programme: Computer Science
 - Course: COS 201 — Computer Programming I
